@@ -1,4 +1,12 @@
- <div>
+<h2>I'm Breno Rodrigo 😁</h2>
+
+<p>📚&nbsp;&nbsp;&nbsp;&nbsp;Learning more and more about the art of technology.</p>
+
+<p>🎨&nbsp;&nbsp;&nbsp;&nbsp;Right now focused on FrontEnd.</p>
+
+##
+
+<div>
   <a href="https://github.com/BRodrigo">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=BRodrigo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRodrigo&layout=compact&langs_count=7&theme=radical"/>
