@@ -1,7 +1,5 @@
 <h2>I'm Breno Rodrigo 😁</h2>
 
-<iframe src="https://giphy.com/embed/75LbfyrcmfOp2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/mario-75LbfyrcmfOp2">via GIPHY</a></p>
-
 <p>📚&nbsp;&nbsp;&nbsp;&nbsp;Learning more and more about the art of technology.</p>
 
 <p>🎨&nbsp;&nbsp;&nbsp;&nbsp;Right now focused on FrontEnd.</p>
