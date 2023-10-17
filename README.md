@@ -16,6 +16,7 @@
   <img align="center" alt="Breno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Breno-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Breno-AWS" height="30" width="40" src="https://devicon-website.vercel.app/api/amazonwebservices/original.svg">
+  <img align="center" alt="Breno-Docker" height="30" width="40" src="https://devicon-website.vercel.app/api/docker/original.svg">
 </div>
   
 ##
