@@ -1,7 +1,6 @@
 <h2>I'm Breno Rodrigo 😁</h2>
 
 <p>📚&nbsp;&nbsp;&nbsp;&nbsp;Learning more and more about the art of technology.</p>
-##
 
 <div>
   <a href="https://github.com/BRodrigo">
