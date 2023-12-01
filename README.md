@@ -14,6 +14,7 @@
   <img align="center" alt="Breno-AWS" height="50" width="60" src="https://devicon-website.vercel.app/api/amazonwebservices/original.svg">
   <img align="center" alt="Breno-Docker" height="50" width="60" src="https://devicon-website.vercel.app/api/docker/original.svg">
   <img align="center" alt="Breno-Kubernets" height="50" width="60" src="https://devicon-website.vercel.app/api/kubernetes/plain-wordmark.svg">
+  <img align="center" alt="Breno-Linux" height="50" width="60" src="https://devicon-website.vercel.app/api/linux/original.svg">
 </div>
   
 ##
